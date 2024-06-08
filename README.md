@@ -1,5 +1,4 @@
-# BI-ML2-2024-pogodars
-
+# BI-ML2-2024
 
 [CZ]Cílem předmětu je seznámit studenty s vybranými pokročilejšími metodami strojového učení. Ve scénáři učení s učitelem se jedná zejména o jádrové metody a neuronové sítě. Ve scénáři učení bez učitele se jedná o analýzu hlavních komponent a další metody redukce dimenzionality. Kromě toho se studenti obeznámí se základy posilovaného učení a strojového zpracování přirozeného jazyka.
 
